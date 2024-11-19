@@ -45,5 +45,5 @@ image = Image.open(BytesIO(image.content))
 # Display the image in the default image viewer.
 image.show()
 
-# Save the image locally as "generated_image.png".
+# Save the image locally as "generated_image.webp".
 image.save("generated_image.png")
