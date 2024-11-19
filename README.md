@@ -26,7 +26,7 @@ This project demonstrates using the OpenAI API to generate text responses based 
 
 1. **Run the Script**:
    ```python
-   python text_generation.py
+   python Text-by-ChatGPT_API.py
    ```
 
 2. **Output**:
