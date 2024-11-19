@@ -46,4 +46,4 @@ image = Image.open(BytesIO(image.content))
 image.show()
 
 # Save the image locally as "generated_image.webp".
-image.save("generated_image.png")
+image.save("generated_image.webp")
